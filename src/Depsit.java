@@ -2,12 +2,12 @@ public class Depsit {
 
 
 
-    public int investor ;
+    private int investor ;
 
-    public double persent;
+    private double persent;
 
-    public int years;
-    public int money;
+   private int years;
+    private int money;
 
     @Override
     public String toString() {

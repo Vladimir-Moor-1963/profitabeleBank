@@ -19,9 +19,11 @@ public class Main {
            Depsit depsit = new Depsit(investor,persent,years,money);
            depsits.add(depsit);
 
+           Calculator calculator = new Calculator();
+           calculator.calculateProfit(money,years,persent);
+            System.out.println(STR."прибыль \{calculator.calculateProfit(money, years, persent)}");
+    }
 
-
-        }
 
 
     }
