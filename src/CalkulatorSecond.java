@@ -1,6 +1,6 @@
 public class CalkulatorSecond {
-    public double calculatorsum(int money, double persent, int years){
-        return ((persent * years) * money)/100;
+    public double calculatorsum(double  sum, double persent){
+        return (sum + persent)/100;
     }
 
 
