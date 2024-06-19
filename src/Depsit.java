@@ -9,7 +9,7 @@ public class Depsit {
    private int years;
     private int money;
 
-    @Override
+
     public String toString() {
         return "Depsit{" +
                 "investor=" + investor +
