@@ -4,6 +4,7 @@ public class Depsit {
 
     private int investor ;
 
+
     private double persent;
 
    private int years;

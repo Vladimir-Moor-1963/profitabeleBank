@@ -1,9 +1,8 @@
-public class CalkulatorSecond {
-    public double calculatorsum(double  sum, double persent){
-        return (sum + persent)/100;
-    }
+//public class CalkulatorSecond {
+  //  public double calculatorsum(double   money, double persent, int years){
 
 
-    }
+
+
 
 

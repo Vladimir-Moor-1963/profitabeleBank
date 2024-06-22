@@ -22,11 +22,19 @@ public class Main {
            //Calculator calculator = new Calculator();
            //calculator.calculateProfit(money,years,persent);
            // System.out.println(STR."прибыль \{calculator.calculateProfit(money, years, persent)}");
+            double result =  ((persent / 100) +1);
 
-            double sum = money;
-            for (int j = 0; j < years; j++) {
-                CalkulatorSecond calkulatorSecond = new CalkulatorSecond();
-                calkulatorSecond.calculatorsum((sum,persent);
+            for (double j = 0; j < years; j++) {
+                money *=  result;
+
+                System.out.println(money + j * result);
+
+            }
+
+
+
+
+
 
 
 
@@ -35,12 +43,12 @@ public class Main {
 
 
 
-    }
+    }}
 
 
 
-    }
 
-}
+
+
 
 
