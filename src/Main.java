@@ -23,11 +23,9 @@ public class Main {
            //calculator.calculateProfit(money,years,persent);
            // System.out.println(STR."прибыль \{calculator.calculateProfit(money, years, persent)}");
             double result =  ((persent / 100) +1);
-
             for (double j = 0; j < years; j++) {
-                money *=  result;
 
-                System.out.println(money + j * result);
+                System.out.println( result);
 
             }
 
